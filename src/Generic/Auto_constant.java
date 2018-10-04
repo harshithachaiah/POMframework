@@ -1,0 +1,8 @@
+package Generic;
+
+public interface Auto_constant {
+	String key = "webdriver.chrome.driver";
+	String value = "./software/chromedriver.exe";
+	String excelpath="./data/voonik.xlsx";
+
+}
